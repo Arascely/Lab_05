@@ -1,0 +1,27 @@
+{
+  "name": "mi_primer_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+     "test:watch": "jest --watch",
+      "test:coverage": "jest --coverage"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arascely/Lab_05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Arascely/Lab_05/issues"
+  },
+  "homepage": "https://github.com/Arascely/Lab_05#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
